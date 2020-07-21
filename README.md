@@ -1,7 +1,7 @@
-# Android
+## Android
 
-## Android Framework
-## Java
-## Kotlin
-## Design Patterns
-## Data Structures
+### Android Framework
+### Java
+### Kotlin
+### Design Patterns
+### Data Structures
